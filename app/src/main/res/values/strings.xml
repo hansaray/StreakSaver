@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Streak Saver</string>
+    <string name="m">M</string>
+    <string name="t">T</string>
+    <string name="w">W</string>
+    <string name="f">F</string>
+    <string name="s">S</string>
+    <string name="total_s">Streak(Now)</string>
+    <string name="best_s">Streak(Best)</string>
+    <string name="total_d">Days Spent</string>
+    <string name="rate">Success Rate</string>
+    <string name="info_e">Today\'s task is not completed yet</string>
+    <string name="info_f">Today\'s task is done</string>
+    <string name="completed">Today\'s task has been completed</string>
+    <string name="close">Close</string>
+    <string name="noData">No data found</string>
+    <string name="restoreData">Restore Data</string>
+</resources>

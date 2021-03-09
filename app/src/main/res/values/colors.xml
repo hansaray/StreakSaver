@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#087553</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="background">#0DB580</color>
+    <color name="background_card">#087553</color>
+    <color name="white">#D3D3D3</color>
+    <color name="pink">#C977DC</color>
+    <color name="number_color">#CF0000</color>
+    <color name="platinum">#E5E4E2</color>
+</resources>
